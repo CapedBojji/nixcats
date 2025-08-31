@@ -148,6 +148,7 @@
             vim-repeat
             plenary-nvim
             nvim-notify
+            snacks-nvim
           ];
           extra = [
             oil-nvim
